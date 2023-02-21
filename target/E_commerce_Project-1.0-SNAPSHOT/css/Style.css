@@ -1,0 +1,23 @@
+.custom-bg{
+    background:blue!important;
+}
+.admin .card{
+    border: 1px solid red;
+}
+.admin .card:hover{
+    background:burlywood;
+    cursor:pointer;
+}
+.color{
+    background:orangered
+}
+.discount-label{
+    font-size: 12px !important;
+    font-style:italic!important;
+}.list-group-item {
+
+}
+
+.container {
+
+}
